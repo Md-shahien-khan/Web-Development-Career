@@ -144,3 +144,42 @@ nav a button{
 .iframe{
     border-radius: 15px;
 }
+
+/* Current Target Section */
+.target-section{
+    width: 850px;
+    margin: 20px auto;
+}
+.target-cards{
+    display: flex;
+}
+.target-card-1,
+.target-card-2,
+.target-card-3{
+    width: 100%;
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 10px;
+    height: 300px;
+    border-radius: 16px;
+}
+.target-card-1{
+    /* border: 1px solid black; */
+    background-color: #ffe6db;
+
+}
+.target-card-2{
+    /* border: 1px solid black;     */
+    margin-left: 25px;
+    background-color: #e5edf8;
+}
+.target-card-3{
+    /* border: 1px solid black; */
+    margin-left: 25px;
+    background-color: #fffdf3;
+}
+.target-a{
+    color: #0D1321;
+    font-size: 12px;
+    font-weight: bolder;
+}
