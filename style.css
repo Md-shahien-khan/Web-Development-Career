@@ -25,9 +25,8 @@ nav a{
     color: rgba(13, 19, 33, 1);
 }
 nav a button{
-    padding: 9px 7px;
+    padding: 12px 17px;
     color: rgba(13, 19, 33, 1);
-    border: none;
     font-size: 23px;
     background-color: transparent;
     border-radius: 8px;
