@@ -6,7 +6,7 @@
 body{
     font-family: "Azeret Mono", monospace;
     font-optical-sizing: auto;
-    width: 1240px;
+    width: 1263px;
 }
 nav{
     display: flex;
@@ -255,10 +255,19 @@ nav a button{
     color: #7b7c7e;
     margin-bottom: 10px;
 }
-form{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-    gap: 15px;
+/* footer */
+footer{
+    width: 100%;
+    height: 100px;
+    background-color: #f2f2f5;
+    margin-top: 70px;
 }
+.footer-section{
+    width: 850px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 30px auto;
+    padding-top: 35px;
+}
+
